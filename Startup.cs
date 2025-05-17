@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 ####
     using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
-#########
-##123#
-###Trigger Check#
-##2dn check#
-##33##
+
+# set rc as master branch in VCS ##
+
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 

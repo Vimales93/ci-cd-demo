@@ -7,7 +7,7 @@ using System.Threading.Tasks;
     using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 
-# set rc as master branch in VCS ##
+# rc without master and trigger as rc##
 
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
